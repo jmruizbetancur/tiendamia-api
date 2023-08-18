@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Product A",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisi blandit, accumsan lectus sit amet, sagittis elit. Duis sed.",
+    "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "price": 64.99,
+    "quantity": 150 
+  },
+  {
+    "title": "Product B",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80",
+    "price": 119.99,
+    "quantity": 97 
+  },
+  {
+    "title": "Product C",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent posuere tempor nisi et mollis. Morbi.",
+    "url": "https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+    "price": 79.95,
+    "quantity": 130 
+  },
+  {
+    "title": "Product D",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non eleifend diam. Nullam mollis fringilla eleifend. Integer efficitur.",
+    "url": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+    "price": 140,
+    "quantity": 87 
+  },
+  {
+    "title": "Product E",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non eleifend diam.",
+    "url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1898&q=80",
+    "price": 89.95,
+    "quantity": 100 
+  },
+  {
+    "title": "Product F",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisi blandit, accumsan lectus sit amet, sagittis elit. Duis sed.",
+    "url": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1131&q=80",
+    "price": 110,
+    "quantity": 105 
+  },
+  {
+    "title": "Product G",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent posuere tempor nisi et mollis.",
+    "url": "https://images.unsplash.com/photo-1619521440807-ba72afd67b12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 175.95,
+    "quantity": 68 
+  },
+  {
+    "title": "Product H",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non eleifend diam. Nullam mollis fringilla eleifend. Integer efficitur.",
+    "url": "https://images.unsplash.com/photo-1622760807800-66cf1466fc08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80",
+    "price": 109.75,
+    "quantity": 54 
+  },
+  {
+    "title": "Product I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "url": "https://images.unsplash.com/photo-1623789196581-4843d54df4e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "price": 74.95,
+    "quantity": 115 
+  },
+  {
+    "title": "Product J",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent posuere tempor nisi et mollis. Morbi.",
+    "url": "https://images.unsplash.com/photo-1628253747716-0c4f5c90fdda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 120,
+    "quantity": 97 
+  }
+]
