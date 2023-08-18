@@ -4,7 +4,6 @@ import { Repository } from 'typeorm';
 import { Order } from './entities/order.entity';
 import { ProductService } from 'src/product/product.service';
 import { CreateOrderDto, OrderProductDto } from './dto/create-order.dto';
-import { UpdateOrderDto } from './dto/update-order.dto';
 import { Product } from 'src/product/entities/product.entity';
 import { OrderProduct } from './entities/order-product.entity';
 import { FindAllOrdersFilters } from './interfaces/find-all-orders-filters.interface';
